@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+< meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<tittle>My first power Learn assignment</tittle>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li type="">Home</li>
+<li>About</li>
+<li>Contact me</li>
+</ul>
+</nav>
+</header>
+<h1>This is not my first HTML work</h1>
+<img src="" width="100px" height="50px">
+<p>I Am a MERN stack developer with certifications from Google and Microsoft</p>
+<p>You can hire me to be a junior developer</P>
+<a href="">click here to view my work</a>
+<footer>Contac Me +254704889806<br>
+powerd by DeFadhiliEmpire
+</footer>
+</body>
+</html>
